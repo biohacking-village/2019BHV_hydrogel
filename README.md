@@ -43,30 +43,30 @@ This recipe / hydrogel protocol is based on the [Science and Gummy Worms by K LE
 
 Step 1: Make the sodium alginate mixture 
 
-* In the blender, put ¼ teaspoon sodium alginate 
-* Add ½ cup room temperature water 
+* Put in blender 1/2 teaspoon sodium alginate and 1 cup room temperature water 
 * Blend until dissolved 
-* Add 1 tablespoon extract and food color [optional]
+* Add 2-3 tablespoon extract - amount depends on how intense you want the flavor to be [optional]
+* Add 2-3 tablespoon food color - amount depends on how deep you want the color to be [optional]
 * Blend briefly to get even distribution of color 
 
 Step 2: Make the calcium chloride solution 
 
-* Put ¾ teaspoon calcium chloride and 2 ¼ cups water  in the mixing bowl 
+* Put 3/4 teaspoon calcium chloride and 2 1/4 cups water in the mixing bowl 
 * Stir until dissolved
 * Put the mesh strainer into the bowl
 
 Step 3: Make the Worms
 
-* Draw the sodium alginate mixture into the syringe
+* Draw the sodium alginate mixture up into the syringe
 * Move to the bowl and depress the plunger slowly and evenly. As the stream of sodium alginate mixture goes into the chloride mixture it will form a long “worm” strand. 
-* Repeat until sodium alginate mixture is used
+* Repeat until sodium alginate mixture is used up
 * Let worms firm in the calcium chloride solution for 1-2 minutes 
 * Lift the mesh strainer filled with worms out of the bowl
 * Rinse the worms with water to remove the calcium chloride salt
 * Put worms into a dish and enjoy
 
 
-=====
+##
 
 
 ## Resources
